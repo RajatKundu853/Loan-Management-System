@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Feb 25 00:59:31 2023
-@author:  © HACK_LIMITLESS 
+@author:  © RAJAT_KUNDU 
 """
 
 import sqlite3
